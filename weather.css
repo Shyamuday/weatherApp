@@ -83,6 +83,7 @@ main{
     background: rgba(153,205,50,075);
     padding: 2px 20px;
     border-radius: 15px;
+    text-transform: capitalize;
 }
 .forecastH{
     color: aliceblue;
@@ -113,6 +114,7 @@ main{
 }
 .desc{
     color: rgb(196,255,77);
+    text-transform: capitalize;
 }
 .divider1{
     background: rgba(254,189,132,0.5);
